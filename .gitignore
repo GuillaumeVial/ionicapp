@@ -1,0 +1,3 @@
+
+# always ignore node dependencies
+node_modules
